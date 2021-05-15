@@ -1,5 +1,7 @@
 # ai-war
 
+Game: http://www.ai-war.net/
+
 Cooldown Timer Management
 
 Steps:
