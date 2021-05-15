@@ -8,4 +8,4 @@ Steps:
 - After this you can see that the console will be open on the right side of your browser
 - Click inside the empty space and paste the code and press enter.
 
-Note: If you refresh the page you will need to copy the code again.
+<strong>Note: If you refresh the page you will need to copy the code again.</strong>
