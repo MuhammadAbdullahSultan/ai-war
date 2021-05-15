@@ -1,6 +1,6 @@
 # ai-war
 
-For managing cooldown timer
+Cooldown Timer Management
 
 Steps:
 
