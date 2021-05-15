@@ -5,7 +5,7 @@ function start() {
         var time = timer.innerText.split(":");
         var minutes = parseInt(time[1]);
         var seconds = parseInt(time[2]);
-        if (minutes == 0 && seconds < 10) {
+        if (minutes == 0 && seconds < 20) {
             play();
             clearInterval(interval);
         }
